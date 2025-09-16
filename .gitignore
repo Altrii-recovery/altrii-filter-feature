@@ -1,0 +1,10 @@
+/.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/captures/
+.gradle/
+app/build/
+
+gradle/wrapper/gradle-wrapper.jar
