@@ -11,7 +11,7 @@ This repository contains an Android VPN-based DNS filter that routes DNS lookups
 
 ## Building
 
-The repository ships text-only Gradle bootstrap scripts pinned to Gradle 8.2 so Android Studio and standalone terminals resolve a consistent toolchain without committing binary wrapper artifacts. The scripts fetch the official Gradle distribution on first run and reuse it from your Gradle user home.
+The repository ships text-only Gradle bootstrap scripts pinned to Gradle 8.2 so Android Studio and standalone terminals resolve a consistent toolchain without committing binary wrapper artifacts. The scripts fetch the official Gradle distribution on first run and reuse it from your Gradle user home. In environments that already provide Gradle, you can continue to invoke the wrapper scripts without additional configuration.
 
 ### Prerequisites
 

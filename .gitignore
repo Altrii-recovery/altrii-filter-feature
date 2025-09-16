@@ -6,5 +6,4 @@
 /captures/
 .gradle/
 app/build/
-
 gradle/wrapper/gradle-wrapper.jar
