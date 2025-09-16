@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Altrii Filter</string>
+    <string name="start_filter">Start Filter</string>
+    <string name="stop_filter">Stop Filter</string>
+    <string name="filter_status_idle">Filter is currently stopped.</string>
+    <string name="filter_running">Filter is running.</string>
+    <string name="filter_stopped">Filter stopped.</string>
+    <string name="toggle_social_media">Block social media</string>
+    <string name="toggle_youtube">Block YouTube</string>
+    <string name="toggle_gambling">Block gambling</string>
+    <string name="category_social_media">Social media</string>
+    <string name="category_youtube">YouTube</string>
+    <string name="category_gambling">Gambling</string>
+    <string name="notification_title">Altrii filter is active</string>
+    <string name="notification_description">DNS filtering is protecting this device.</string>
+    <string name="notification_stop_action">Stop</string>
+    <string name="block_screen_title">Blocked by Altrii</string>
+    <string name="blocked_message">Access to %1$s has been blocked by Altrii.</string>
+    <string name="close">Close</string>
+    <string name="domain_blocked_snackbar">%1$s was blocked by Altrii.</string>
+    <string name="domain_blocked_snackbar_with_reason">%1$s was blocked by Altrii (%2$s).</string>
+    <string name="block_screen_title_with_reason">Blocked by Altrii (%1$s)</string>
+    <string name="request_notification_permission">Notification permission is required to show filter status.</string>
+</resources>
